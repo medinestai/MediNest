@@ -1,7 +1,7 @@
 
-  # Patient Dashboard Features
+  # MediNest
 
-  This is a code bundle for Patient Dashboard Features. The original project is available at https://www.figma.com/design/MzkzMn6Mx1FSE4Wh2mZ2YT/Patient-Dashboard-Features.
+MediNest frontend is available at : https://medi-nest-ai.vercel.app/
 
   ## Running the code
 
